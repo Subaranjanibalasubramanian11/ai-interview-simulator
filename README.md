@@ -257,10 +257,7 @@ The application integrates Google Gemini API to generate AI-based interview feed
 
 # <FaUserGraduate /> Developed By
 
-### Subaranjani K
-
-B.Sc Information Technology  
-Sri Krishna Arts and Science College
+### Subaranjani K B
 
 ---
 
